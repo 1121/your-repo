@@ -1,0 +1,3 @@
+require('dotenv').config();
+const { ethers } = require ("ethers");
+console.log("private key:", privatekey);
